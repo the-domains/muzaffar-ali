@@ -1,19 +1,4 @@
-name: MUZAFFAR ALI
-favicon: null
-layout_spectrum: 0.08265
-typography_spectrum: 0.84624
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#FF6700'
@@ -23,6 +8,11 @@ color:
     - '#004E98'
   brandStrength: 0.4375
   lightness: 0.75
-  saturation: 0.625
   rhythmicContrast: 1
+  saturation: 0.625
+cta: {}
+layout_spectrum: 0.684684
+name: MUZAFFAR ALI
+opengraph: {}
 purpose: []
+typography_spectrum: 0.84624
